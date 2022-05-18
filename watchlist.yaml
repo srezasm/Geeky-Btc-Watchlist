@@ -1,0 +1,117 @@
+# Please follow the below instruction for adding new usernames to the watchlis
+#
+# 1. Add new usernames in Alphabetical order followed by a : and exceptions for streaming their content(explained below)
+# 2.
+#   tw: tweets
+#   rt: retweets
+#   qt: quoted retweets
+#
+# 3. Usernames MUST be lower-case
+# 4. Hex format usernames like 0xb10c MUST be wrapped inside two '
+
+'0xb10c': tw rt qt
+_jonasschnelli_: tw
+_k3tan: tw
+aantonop: tw
+achow101: tw
+acinq_co: tw
+adam3us: tw
+alexbosworth: tw
+andreneves: tw
+arbedout: tw
+benthecarman: tw
+bitcoinbeach: tw
+bitcoincoreorg: tw
+bitcoindevblog: tw
+bitcoinissaving: tw
+bitcoinmagazine: tw
+bitcoinmerges: tw
+bitcoinonly_: tw
+bitcoinq_a: tw
+bitcointv: tw
+bitmexresearch: tw
+bitstein: tw
+bluewalletio: tw
+breez_tech: tw
+brian_trollz: tw
+brotherrabbit_: tw
+btc_quotes: tw
+btcpayserver: tw
+btcsessions: tw
+chaincodelabs: tw
+clarkmoody: tw
+core_ln: tw
+craigraw: tw
+dergigi: tw
+econoalchemist: tw
+electrumwallet: tw
+ellemouton: tw
+ergobtc: tw
+evoskuil: tw
+fiatjaf: tw
+giacomozucco: tw
+gnupg: tw
+hampus_s: tw
+hillebrandmax: tw
+in3rsha: tw rt qt
+j9roem: tw
+jack: tw
+jackmallers: tw
+jeremyrubin: tw
+laurentmt: tw
+lightning: tw
+lnbits: tw
+lnmarkets: tw
+lnstats: tw
+lntxbot: tw
+lopp: tw
+lukedashjr: tw
+lynaldencontact: tw
+mempool: tw
+mercury_wallet: tw
+murchandamus: tw
+muunwallet: tw
+mynodebtc: tw
+nakamotoinst: tw rt qt
+nakamotoquotes: tw rt qt
+neiljacobs: tw
+netblocks: tw
+nickszabo4: tw
+nicolasdorier: tw
+nvk: tw
+odell: tw
+optoutpod: tw
+oxt_btc: tw
+pavolrusnak: tw
+pete_rizzo_: tw
+petermccormack: tw
+phoenixwallet: tw
+provoost: tw
+pwuille: tw
+raw_avocado: tw
+real_vijay: tw
+realtbast: tw
+remyers_: tw
+renepickhardt: tw
+ronindojonode: tw
+rot13maxi: tw
+rusty_twit: tw
+samouraidev: tw rt qt
+samouraiwallet: tw rt qt
+satofishi: tw
+scalingbitcoin: tw
+seedsigner: tw
+slush_pool: tw
+snyke: tw
+somsenruben: tw
+sparrowwallet: tw
+stephanlivera: tw
+strike: tw
+thebluematt: tw
+thunderhubio: tw
+torproject: tw
+twfdtst: tw
+umbrel: tw
+walletofsatoshi: tw
+wiz: tw
+zndtoshi: tw
